@@ -1,0 +1,5 @@
+epochs, filters, kernel_size, units, activation, ll_activation, use_bias, loss_function, train_loss, validation_loss, test_loss, accuracy, training_set_size, test_set_size, model_id, training_data_id, test_data_id
+10, 16, 5, 16, "relu", "softmax", True, "cce", 4.3920e-04, 6.0185e-04, , 0.7, 100, 100, 863bb30664767d0f915b78e3427662af, 905a037fdf2384e9a099cc2d4351cc20.dir, d7419b8cf8e1e28d808bfd990c420939.dir
+100, 16, 5, 16, "relu", "softmax", True, "cce", 2.9732e-08, 8.2889e-06, 0.0012, 1, 1000, 100, bc6a7ba1204d0eb3336b86005e5e7467, eac479fc5e2a3344e474af542d1a6491.dir, d7419b8cf8e1e28d808bfd990c420939.dir
+100, 16, 5, 32, "relu", "softmax", True, "cce", 0.0335, 0.0290, 0.0444, 0.99, 1000, 100, d0857c11e6543f2449bb7b5e540504d2, eac479fc5e2a3344e474af542d1a6491.dir, d7419b8cf8e1e28d808bfd990c420939.dir
+50, 24, 5, 32, "relu", "softmax", True, "cce", 0.0111, 0.0082, 0.0082, 1, 5000, 100, 0c961cbccb80cf0cd84f63dc1ed21909, d136ece8b8c474fa96d9a5ae62611de5.dir, d7419b8cf8e1e28d808bfd990c420939.dir
